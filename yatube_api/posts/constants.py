@@ -1,1 +1,0 @@
-POST_STR_LENGTH = 50
